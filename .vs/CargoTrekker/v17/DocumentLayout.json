@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\source\\CargoTrekker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4421A771-B771-400D-B522-EED3FD4B1370}|CargoTrekker\\CargoTrekker.csproj|c:\\source\\cargotrekker\\cargotrekker\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4421A771-B771-400D-B522-EED3FD4B1370}|CargoTrekker\\CargoTrekker.csproj|solutionrelative:cargotrekker\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4421A771-B771-400D-B522-EED3FD4B1370}|CargoTrekker\\CargoTrekker.csproj|c:\\source\\cargotrekker\\cargotrekker\\pages\\objectivepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4421A771-B771-400D-B522-EED3FD4B1370}|CargoTrekker\\CargoTrekker.csproj|solutionrelative:cargotrekker\\pages\\objectivepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4421A771-B771-400D-B522-EED3FD4B1370}|CargoTrekker\\CargoTrekker.csproj|c:\\source\\cargotrekker\\cargotrekker\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4421A771-B771-400D-B522-EED3FD4B1370}|CargoTrekker\\CargoTrekker.csproj|solutionrelative:cargotrekker\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4421A771-B771-400D-B522-EED3FD4B1370}|CargoTrekker\\CargoTrekker.csproj|c:\\source\\cargotrekker\\cargotrekker\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4421A771-B771-400D-B522-EED3FD4B1370}|CargoTrekker\\CargoTrekker.csproj|solutionrelative:cargotrekker\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A42B697-0A01-4A91-B7F6-E0034C94C919}|CargoTrekker.Domain\\CargoTrekker.Domain.csproj|c:\\source\\cargotrekker\\cargotrekker.domain\\objective.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A42B697-0A01-4A91-B7F6-E0034C94C919}|CargoTrekker.Domain\\CargoTrekker.Domain.csproj|solutionrelative:cargotrekker.domain\\objective.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A42B697-0A01-4A91-B7F6-E0034C94C919}|CargoTrekker.Domain\\CargoTrekker.Domain.csproj|c:\\source\\cargotrekker\\cargotrekker.domain\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A42B697-0A01-4A91-B7F6-E0034C94C919}|CargoTrekker.Domain\\CargoTrekker.Domain.csproj|solutionrelative:cargotrekker.domain\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 253,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\source\\CargoTrekker\\CargoTrekker\\App.razor",
+              "RelativeDocumentMoniker": "CargoTrekker\\App.razor",
+              "ToolTip": "C:\\source\\CargoTrekker\\CargoTrekker\\App.razor",
+              "RelativeToolTip": "CargoTrekker\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T20:14:19.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObjectivePage.razor",
+              "DocumentMoniker": "C:\\source\\CargoTrekker\\CargoTrekker\\Pages\\ObjectivePage.razor",
+              "RelativeDocumentMoniker": "CargoTrekker\\Pages\\ObjectivePage.razor",
+              "ToolTip": "C:\\source\\CargoTrekker\\CargoTrekker\\Pages\\ObjectivePage.razor",
+              "RelativeToolTip": "CargoTrekker\\Pages\\ObjectivePage.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T20:14:58.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\source\\CargoTrekker\\CargoTrekker\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "CargoTrekker\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\source\\CargoTrekker\\CargoTrekker\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "CargoTrekker\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T20:14:23.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\source\\CargoTrekker\\CargoTrekker\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "CargoTrekker\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\source\\CargoTrekker\\CargoTrekker\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "CargoTrekker\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T20:14:21.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Objective.cs",
+              "DocumentMoniker": "C:\\source\\CargoTrekker\\CargoTrekker.Domain\\Objective.cs",
+              "RelativeDocumentMoniker": "CargoTrekker.Domain\\Objective.cs",
+              "ToolTip": "C:\\source\\CargoTrekker\\CargoTrekker.Domain\\Objective.cs",
+              "RelativeToolTip": "CargoTrekker.Domain\\Objective.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:11:19.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mission.cs",
+              "DocumentMoniker": "C:\\source\\CargoTrekker\\CargoTrekker.Domain\\Mission.cs",
+              "RelativeDocumentMoniker": "CargoTrekker.Domain\\Mission.cs",
+              "ToolTip": "C:\\source\\CargoTrekker\\CargoTrekker.Domain\\Mission.cs",
+              "RelativeToolTip": "CargoTrekker.Domain\\Mission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:07:03.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

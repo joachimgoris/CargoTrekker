@@ -1,0 +1,41 @@
+﻿@page "/"
+@using CargoTrekker.Domain
+
+<PageTitle>Objectives</PageTitle>
+
+<h1>Objectives</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>Destination</th>
+            <th>Cargo</th>
+            <th>Amount</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var objective in Objectives)
+        {
+            <tr>
+                <td>@objective.Destination</td>
+                <td>@objective.CargoType</td>
+                <td>@objective.Amount</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@code {
+    private IEnumerable<Objective> Objectives;
+
+    protected override Task OnInitializedAsync()
+    {
+        Objectives = [
+        new Objective(Destination.CRUL1, CargoType.Aluminium, 3),
+        new Objective(Destination.CRUL1, CargoType.Stims, 4),
+        new Objective(Destination.CRUL4, CargoType.Stims, 5),
+        new Objective(Destination.CRUL5, CargoType.Stims, 6)
+        ];
+        return base.OnInitializedAsync();
+    }
+}
