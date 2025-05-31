@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CargoTrekker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05fed462e1186acde0a071acbfbdf349fd062ac0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CargoTrekker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CargoTrekker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

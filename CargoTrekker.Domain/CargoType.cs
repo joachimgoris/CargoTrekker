@@ -7,5 +7,6 @@ public enum CargoType
     Stims,
     Tin,
     Titanium,
-    AgriculturalSupplies
+    AgriculturalSupplies,
+    Gold
 }

@@ -9,3 +9,4 @@ C:\source\CargoTrekker\CargoTrekker.Domain\obj\Debug\net8.0\CargoTrekker.Domain.
 C:\source\CargoTrekker\CargoTrekker.Domain\obj\Debug\net8.0\refint\CargoTrekker.Domain.dll
 C:\source\CargoTrekker\CargoTrekker.Domain\obj\Debug\net8.0\CargoTrekker.Domain.pdb
 C:\source\CargoTrekker\CargoTrekker.Domain\obj\Debug\net8.0\ref\CargoTrekker.Domain.dll
+C:\source\CargoTrekker\CargoTrekker.Domain\obj\Debug\net8.0\CargoTrekker.Domain.sourcelink.json

@@ -1,3 +1,3 @@
 ﻿namespace CargoTrekker.Domain;
 
-public record Objective(Destination Destination, CargoType CargoType, int Amount);
+public record Objective(Location Destination, CargoType CargoType, int Amount);

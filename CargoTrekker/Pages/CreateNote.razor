@@ -1,0 +1,29 @@
+﻿@page "/createnote"
+@using CargoTrekker.Domain
+
+<PageTitle>Create note</PageTitle>
+<h3>CreateNote</h3>
+
+<h4>Location</h4>
+
+<EditForm Model="@cargo">
+    <p>Commodity</p>
+    <InputSelect TValue="CargoType" @bind-Value="cargo.Commodity" DisplayName="Commodity">
+        @foreach(var cargoType in Cargo.Commodities)
+        {
+            <option value="@cargoType">@cargoType.ToString()</option>
+        }
+    </InputSelect>
+    <p>SCU</p>
+    <InputSelect TValue="ScuSize" @bind-Value="cargo.ScuSize" DisplayName="SCU">
+        @foreach(var scuSize in Cargo.ScuSizes)
+        {
+            <option value="@scuSize">@scuSize.ToString()</option>
+        }
+    </InputSelect>
+    <p>Amount</p>
+    <InputNumber DisplayName="Amount" @bind-Value="cargo.Amount"></InputNumber>
+</EditForm>
+@code {
+    private Cargo cargo = new Cargo();
+}
