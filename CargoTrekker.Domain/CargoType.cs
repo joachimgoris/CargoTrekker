@@ -1,7 +1,7 @@
 ﻿namespace CargoTrekker.Domain;
 
 public enum CargoType
-{    
+{
     Aluminium,
     Corundum,
     Stims,

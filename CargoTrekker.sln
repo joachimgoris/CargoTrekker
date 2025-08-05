@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CargoTrekker", "CargoTrekke
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CargoTrekker.Domain", "CargoTrekker.Domain\CargoTrekker.Domain.csproj", "{9A42B697-0A01-4A91-B7F6-E0034C94C919}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CargoTrekker.Domain.UnitTests", "CargoTrekker.Domain.UnitTests\CargoTrekker.Domain.UnitTests.csproj", "{9B2D5D60-0209-4AB5-89F5-874837D5720A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CargoTrekker.Presentation", "CargoTrekker.Presentation\CargoTrekker.Presentation.csproj", "{DEBF1B65-B685-412A-997F-50ECCABB6E25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{9A42B697-0A01-4A91-B7F6-E0034C94C919}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A42B697-0A01-4A91-B7F6-E0034C94C919}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A42B697-0A01-4A91-B7F6-E0034C94C919}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B2D5D60-0209-4AB5-89F5-874837D5720A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B2D5D60-0209-4AB5-89F5-874837D5720A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B2D5D60-0209-4AB5-89F5-874837D5720A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B2D5D60-0209-4AB5-89F5-874837D5720A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEBF1B65-B685-412A-997F-50ECCABB6E25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEBF1B65-B685-412A-997F-50ECCABB6E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEBF1B65-B685-412A-997F-50ECCABB6E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEBF1B65-B685-412A-997F-50ECCABB6E25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

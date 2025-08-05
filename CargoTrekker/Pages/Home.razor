@@ -1,0 +1,54 @@
+﻿@page "/"
+@using CargoTrekker.Domain
+
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, world!</h1>
+<h2>@Mission.Name</h2>
+<label>Reward:</label> <p>@Mission.Reward</p>
+<table>
+    <tr>
+        <th>Cargo type</th>
+        <th>Amount</th>
+        <th>Station</th>
+        <th>Planet</th>
+        <th>System</th>
+    </tr>
+
+    @foreach (var objective in Mission.Objectives)
+    {
+    <tr>
+        <td>@objective.CargoType</td>
+        <td>@objective.Amount</td>
+        <td>@objective.Destination.Station</td>
+        <td>@objective.Destination.Planet</td>
+        <td>@objective.Destination.System</td>
+    </tr>
+    }
+
+</table>
+
+@code
+{
+public Mission Mission = new Mission(10000, "Stims for the refugees");
+
+protected override void OnInitialized()
+{
+base.OnInitialized();
+var greenGladeStation = new Location
+{
+Planet = "Hurston",
+Station = "HUR-L1 Green Glade station",
+System = "Stanton",
+};
+var faithFulDreamStation = new Location
+{
+Planet = "Hurston",
+Station = "HUR-L2 Faithful Dream station",
+System = "Stanton",
+};
+
+Mission.AddObjective(new Objective(greenGladeStation, CargoType.Stims, 5));
+Mission.AddObjective(new Objective(faithFulDreamStation, CargoType.Stims, 5));
+}
+}
